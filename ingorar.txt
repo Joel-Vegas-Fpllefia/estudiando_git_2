@@ -1,0 +1,34 @@
+* [Customer Experience Dive](https://www.customerexperiencedive.com/news/amazon-ai-tool-help-me-decide/803673/?utm_source=chatgpt.com)
+* [About Amazon](https://www.aboutamazon.com/news/operations/new-robots-amazon-fulfillment-agentic-ai?utm_source=chatgpt.com)
+* [blog.google](https://blog.google/technology/ai/google-ai-updates-september-2025/?utm_source=chatgpt.com)
+
+Aquí tienes un resumen de una noticia actual sobre inteligencia artificial:
+
+---
+
+### 📰 Noticia destacada
+
+Amazon ha presentado una nueva herramienta llamada Help Me Decide, impulsada por IA, que ayuda a los clientes a elegir entre varios productos similares basándose en su historial de navegación, búsquedas y compras previas. ([Customer Experience Dive][1])
+La característica aparece como un botón en la página de detalles del producto, lo que permite al usuario obtener recomendaciones personalizadas y explicaciones de por qué un artículo podría ser más adecuado que otro. ([Customer Experience Dive][1])
+
+---
+
+### ✅ ¿Por qué es importante?
+
+* Refuerza la tendencia de usar IA generativa en comercio electrónico para mejorar la experiencia del cliente.
+* La herramienta apunta a reducir la complejidad de elegir entre múltiples opciones, facilitando decisiones más rápidas y personalizadas.
+* Señala cómo grandes plataformas están integrando IA no sólo para análisis, sino para interacción directa con el usuario.
+
+---
+
+### ⚠️ Consideraciones
+
+* Hay implicaciones en cuanto a privacidad y uso de datos: se basa en información de navegación y compras.
+* También plantea temas de transparencia: ¿cómo se generan exactamente las recomendaciones? ¿Hay sesgos o preferencias ocultas?
+* Sería interesante ver cómo se implementa esta funcionalidad en diferentes mercados y si mejora los indicadores de satisfacción o conversión.
+
+---
+
+Si quieres, puedo buscar varias noticias recientes sobre IA y te mando 3-5 titulares con enlace para que escojas cuál desarrollar con más detalle. ¿Te parece bien?
+
+[1]: https://www.customerexperiencedive.com/news/amazon-ai-tool-help-me-decide/803673/?utm_source=chatgpt.com "Amazon’s latest AI tool wants to help you decide between products"
